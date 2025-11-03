@@ -1,0 +1,2 @@
+# -AWS-EC2-AMI-Lab-Create-and-Launch-a-Custom-Amazon-Machine-Image
+In this lab, I learned how to create a custom Amazon Machine Image (AMI) from an existing EC2 instance. The goal was to capture the full configuration and web server setup (including a custom NGINX page) so that any new instance launched from this AMI automatically serves the same webpage — saving setup time and enabling easy replication.
